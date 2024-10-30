@@ -1,0 +1,1 @@
+This python project will help you to choose required resistors from E24 series for voltage divider.
